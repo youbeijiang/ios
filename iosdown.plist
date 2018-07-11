@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://49.65.0.137/thp.ipa</string>
+                    <string>http://49.65.0.137:8080/thp/resources/thp.apk</string>
                 </dict>
             </array>
         </dict>
